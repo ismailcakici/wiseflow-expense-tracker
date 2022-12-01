@@ -1,0 +1,51 @@
+{
+    "appTitle" : "WiseFlow",
+
+   "drawer" : {
+    "language" : "Language",
+    "clear_cache" : "Clear Data",
+    "clear_dialog" : "Are you sure? This will delete all your transactions",
+    "change_currency" : "Change Currency",
+    "theme" : "Theme"
+    },
+
+    "controller" : {
+        "home" : "Home",
+        "add_transactions" : "Add Transaction",
+        "reports" : "Reports"
+    },
+
+    "home" : {
+        "total_balance" : "Total Balance",
+        "expense" : "Expense",
+        "income" : "Income",
+        "transactions_history" : "Transaction History",
+        "empty_list" : "Your transaction list is empty !"
+    },
+
+    "report" : {
+        "daily" : "Daily",
+        "weekly" : "Weekly",
+        "monthly" : "Monthly", 
+        "empty_chart" : "Not enough data to generate graph"
+    },
+
+    "add_transaction" : {
+        "add" : "Add Transaction",
+        "title" : "Title",
+        "amount" : "Amount",
+        "date_pick" : "Pick a Date",
+        "expense" : "Expense",
+        "income" : "Income",
+        "date" : "Date",
+        "update" : "Update",
+        "validate" : "This area cant be empty !",
+        "dialog" : "is added list",
+        "dialog_cancel" : "Cancel"
+    },
+
+    "dialog" : {
+        "no" : "No",
+        "yes" : "Yes"
+    }
+}

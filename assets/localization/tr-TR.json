@@ -1,0 +1,56 @@
+{
+    "appTitle" : "WiseFlow",
+
+   "drawer" : {
+    "language" : "Dil Değiştir",
+    "clear_cache" : "Verileri Temizle",
+    "clear_dialog" : "Emin misiniz ? Bu tüm işlemlerinizi temizler.",
+    "change_currency" : "Para birimini değiştir",
+    "theme" : "Tema"
+    },
+
+    "controller" : {
+        "home" : "Ana Sayfa",
+        "add_transactions" : "İşlem Ekle",
+        "reports" : "Grafikler"
+    },
+
+    "home" : {
+        "total_balance" : "Toplam Bakiye",
+        "expense" : "Gider",
+        "income" : "Gelir",
+        "transactions_history" : "İşlem Geçmişi",
+        "empty_list" : "Listeniz şimdilik boş !"
+
+    },
+
+    "report" : {
+        "daily" : "Günlük",
+        "weekly" : "Haftalık",
+        "monthly" : "Aylık",
+        "empty_chart" : "Grafik için yeterli veri yok !"
+
+    },
+
+    "add_transaction" : {
+        "add" : "İşlem Ekle",
+        "title" : "Açıklama",
+        "amount" : "Miktar",
+        "date_pick" : "Tarih Seç",
+        "expense" : "Gider",
+        "income" : "Gelir",
+        "date" : "Tarih",
+        "update" : "Düzenle",
+        "validate" : "Bu alan boş bırakılamaz !",
+        "dialog" : "listeye eklendi",
+        "dialog_cancel" : "Geri Al"
+
+    },
+
+    "dialog" : {
+        "no" : "Hayır",
+        "yes" : "Evet"
+    }
+
+
+}
